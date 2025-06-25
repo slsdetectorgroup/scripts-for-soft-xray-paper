@@ -1,0 +1,9 @@
+the files LGADs_absorption_xxxeV.txt
+contain 3 columns:
+
+eventID ; absorption_depth ; released_energy
+
+They were generated with the Montecarlo tool Geant4
+setup:
+    mono-energetic photon beam
+    solid Silicon volume
